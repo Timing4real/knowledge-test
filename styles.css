@@ -1,0 +1,187 @@
+/* styles.css */
+
+.work-phrame {
+    background-color: black;
+    height: 380px;
+}
+
+.header-section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.head-logo {
+    width: 100px;
+    margin-top: 1%;
+    margin-left: 1%;
+    color: white;
+}
+
+.head-links ol {
+    display: flex;
+}
+
+.head-links ol li {
+    width: 120px;
+    list-style-type: none;
+    color: white;
+}
+
+.body-holder {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 12%;
+    margin-top: 5%;
+    padding-right: %;
+}
+
+.words-holder {
+    margin-top: -1%;
+    margin-left: 5%;
+}
+
+.upper-case {
+    width: 60%;
+    color: white;
+}
+
+.small-case{
+    margin-top: -5%;
+    width: 75%;
+    color: white;
+}
+
+button {
+    margin-top: 3%;
+    width: 17%;
+    height: 25px;
+    background-color: blue;
+    border-style: none;
+    border-radius: 1cap;
+    color: white;
+}
+
+.image-holder {
+    width: 55%;
+    height: 180px;
+    background-color: grey;
+    margin-right: 18%;
+    background-image: url("images/Horse.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 2cap;
+}
+
+.word {
+    margin-top: 18%;
+    margin-left: 26%;
+    color: blue;
+}
+
+.flex-container {
+    background-image: url("images/Space.jpg");
+    height: 400px;
+    width: 1335px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1%;
+}
+
+.head-info {
+    text-indent: 37%;
+}
+
+.flex-holder {
+    display: flex;
+    height: 200px;
+    justify-content: space-around;
+    width: 850px;
+    margin-left: 19%;
+    margin-top: 2%;
+}
+
+.first-box {
+    height: 150px;
+    width: 150px;
+    border: 3px solid blue;
+    border-radius: 2ch;
+}
+
+.second-box {
+    height: 150px;
+    width: 150px;
+    border: 3px solid blue;
+    border-radius: 2ch;
+}
+
+.third-box {
+    height: 150px;
+    width: 150px;
+    border: 3px solid blue;
+    border-radius: 2ch;
+}
+
+.fourth-box {
+    height: 150px;
+    width: 150px;
+    border: 3px solid blue;
+    border-radius: 2ch;
+}
+
+.flex-word {
+    display: flex;
+    height: 200px;
+    justify-content: space-around;
+    width: 850px;
+    margin-left: 19%;
+    margin-top: -3%;
+}
+
+.first-word {
+    width: 129px;
+}
+
+.second-word {
+    width: 129px;
+}
+
+.third-word {
+    width: 129px;
+}
+
+.fourth-word {
+    width: 129px;
+}
+
+.last-content {
+    height: 300px;
+    width: 1335px;
+    background-image: url("images/Skye.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -4%;
+    align-content: center;
+}
+
+.quote {
+    width: 520px;
+    margin-left: 30%;
+    color: blue;
+}
+
+#signature {
+    margin-left: 80%;
+}
+
+.soar {
+    height: 15px;
+    width: 15px;
+    border-radius: 10cm;
+    border: 2px solid black;
+    align-content: center;
+}
+
+img {
+    height: auto;
+    width: 30px;
+}
