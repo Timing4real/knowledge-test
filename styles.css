@@ -140,18 +140,22 @@ button {
 
 .first-word {
     width: 129px;
+    text-align: center;
 }
 
 .second-word {
     width: 129px;
+    text-align: center;
 }
 
 .third-word {
     width: 129px;
+    text-align: center;
 }
 
 .fourth-word {
     width: 129px;
+    text-align: center;
 }
 
 .last-content {
@@ -168,6 +172,7 @@ button {
     width: 520px;
     margin-left: 30%;
     color: blue;
+    text-align: center;
 }
 
 #signature {
