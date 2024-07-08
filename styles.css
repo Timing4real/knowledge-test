@@ -22,6 +22,15 @@
     display: flex;
 }
 
+.head-link ol {
+
+}
+
+@media screen (min-width: 475px, 640px, 768px, 1024px, 1280px, 1536px) {
+
+}
+    
+
 .head-links ol li {
     width: 120px;
     list-style-type: none;
