@@ -21,16 +21,7 @@
 .head-links ol {
     display: flex;
 }
-
-.head-link ol {
-
-}
-
-@media screen (min-width: 475px, 640px, 768px, 1024px, 1280px, 1536px) {
-
-}
     
-
 .head-links ol li {
     width: 120px;
     list-style-type: none;
@@ -42,7 +33,6 @@
     justify-content: space-around;
     margin-left: 12%;
     margin-top: 5%;
-    padding-right: %;
 }
 
 .words-holder {
@@ -62,13 +52,19 @@
 }
 
 button {
-    margin-top: 3%;
-    width: 17%;
-    height: 25px;
+    width: 7em;
+    height: 30px;
     background-color: blue;
     border-style: none;
-    border-radius: 1cap;
+    border-radius: 1ch;
     color: white;
+}
+
+button:hover {
+    background-color: grey;
+    border-radius: 0.8ch;
+    border-style: dotted;
+    border: 2px solid red;
 }
 
 .image-holder {
